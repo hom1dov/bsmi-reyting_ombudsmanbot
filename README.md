@@ -1,0 +1,1 @@
+# bsmi-reyting_ombudsmanbot
